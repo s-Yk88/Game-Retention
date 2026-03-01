@@ -5,6 +5,7 @@
 Designed and analyzed an A/B test (n=90,000+) to evaluate the impact of progression gating on player retention in a mobile game. Found that the majority of users churned before reaching either gate level, revealing that late-stage gating has limited leverage on overall retention. Among high-engagement players who reached the gates, minimal 7 day retention lift was observed between gate 30 versus 40. Recommended shifting experimentation to earlier-game friction points (levels 5 & 10) to meaningfully impact retention and lifetime value.
 
 ## Methods:
+- Retrsospective Power/ Sensitivity Analysis
 - A/B Testing of Binary & Continuous Variables:
     - Hypothesis Testing
         - $X^2$ test
